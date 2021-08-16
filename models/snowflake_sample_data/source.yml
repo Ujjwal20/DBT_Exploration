@@ -9,3 +9,8 @@ sources:
       - name: region
       - name: customer
       - name: nation
+      - name: supplier
+      - name: part
+      - name: orders
+      - name: lineitem
+      - name: partsupp
